@@ -1,0 +1,9 @@
+{
+    "autoimport.absolute": true,
+    "emmet.triggerExpansionOnTab": true,
+    "files.associations": {
+        "*html": "html"
+    },
+
+
+}
